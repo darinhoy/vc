@@ -1,0 +1,34 @@
+i {
+    cursor: pointer;
+    width: 20px;
+}
+img {
+    width: 100%;
+}
+.main-content {
+    max-width: 1400px;
+}
+.skill-react {
+    width: 90%;
+}
+.skill-js {
+    width: 80%;
+}
+.gitlab-skill {
+    width: 75%;
+}
+.pj-management {
+    width: 50%;
+}
+.language-kh {
+    width: 100%;
+    height: 24px;
+}
+.language-en {
+    width: 55%;
+    height: 24px;
+}
+.language-gn {
+    width: 25%;
+    height: 24px;
+}
